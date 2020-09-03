@@ -18,3 +18,12 @@
 
 **Link(s) to work**
 -
+
+### Day 3: September 3, Thursday
+
+**Today's Progress**: Worked some more on how I want the task list of my progress tracker to be structured. Also solved a couple of JavaScript challenges on plantyourcode.com.
+
+**Thoughts** Solving the challenges was fun but took quite some time. For my progress tracker, I am tempted to jump ahead to the parts that seem the most fun, but I know I should be patient and get the basic structure first.
+
+**Link(s) to work**
+-
