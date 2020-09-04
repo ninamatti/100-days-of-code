@@ -27,3 +27,13 @@
 
 **Link(s) to work**
 -
+
+
+### Day 4: September 4, Friday
+
+**Today's Progress**: Solved some more JavaScript challenges on plantyourcode.com and CodeWars, and finished a couple of lectures on udemy on the topic of JavaScript async/await and promises.
+
+**Thoughts** Today I also submitted an interim assessment for which I needed to complete several challenges for the precourse of the Code Chrysalis fulltime bootcamp that I will start in three weeks. It was challenging but fun!
+
+**Link(s) to work**
+-
