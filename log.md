@@ -37,3 +37,13 @@
 
 **Link(s) to work**
 -
+
+### Day 4: September 4, Friday
+
+**Today's Progress**: Watched the funfunfunction video series on objection creation and prototypes in JavaScript. Also helped out some teammates with challenges for the precourse work.
+
+**Thoughts** I don't feel completely comfortable with prototype inheritance yet, but things are getting clearer.
+
+**Link(s) to work**
+-
+
