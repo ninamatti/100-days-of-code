@@ -38,7 +38,7 @@
 **Link(s) to work**
 -
 
-### Day 4: September 4, Friday
+### Day 5: September 5, Saturday
 
 **Today's Progress**: Watched the funfunfunction video series on objection creation and prototypes in JavaScript. Also helped out some teammates with challenges for the precourse work.
 
@@ -47,3 +47,11 @@
 **Link(s) to work**
 -
 
+### Day 6: September 6, Sunday
+
+**Today's Progress**: Solved challenges involving prototypes, inheritance and classes from the precourse assignments.
+
+**Thoughts** Learned and improved on a lot of new concepts today, feels like progress!
+
+**Link(s) to work**
+-
