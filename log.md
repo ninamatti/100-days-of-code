@@ -55,3 +55,12 @@
 
 **Link(s) to work**
 -
+
+### Day 7: September 7, Monday
+
+**Today's Progress**: Revision of CSS basics, created an alligator generator. Also started with a facebook newsfeed clone project and set up the javascript30 challenge.
+
+**Thoughts** Today was really interesting and exciting; doing projects and seeing how your code has immediate results is incredibly rewarding!
+
+**Link(s) to work**
+https://codepen.io/ninamatti/pen/WNwMvpj
