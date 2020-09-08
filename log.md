@@ -64,3 +64,12 @@
 
 **Link(s) to work**
 https://codepen.io/ninamatti/pen/WNwMvpj
+
+### Day 8: September 8, Tuesday
+
+**Today's Progress**: Spent most of the day creating a mock-up of facebook's newsfeed with randomly generated posts, a post input field and updated timestamps.
+
+**Thoughts** Today was frustrating; a couple of features were surprisingly  hard to implement for me. Hopefully, tomorrow the progress will be smoother.
+
+**Link(s) to work**
+https://codepen.io/ninamatti/project/editor/AEvnEd
