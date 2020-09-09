@@ -73,3 +73,12 @@ https://codepen.io/ninamatti/pen/WNwMvpj
 
 **Link(s) to work**
 https://codepen.io/ninamatti/project/editor/AEvnEd
+
+### Day 9: September 9, Wednesday
+
+**Today's Progress**: I read about node.js and tried out some basics with the npm. Also continued working on my progress tracker.
+
+**Thoughts** The node.js assignment was done quicker than I'd thought; the progress on my tracker made me quite happy.
+
+**Link(s) to work**
+-
