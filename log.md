@@ -82,3 +82,12 @@ https://codepen.io/ninamatti/project/editor/AEvnEd
 
 **Link(s) to work**
 -
+
+### Day 9: September 9, Wednesday
+
+**Today's Progress**: I spent some time solving challenges on codewars today.
+
+**Thoughts** -
+
+**Link(s) to work**
+-
