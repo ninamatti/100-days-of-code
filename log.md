@@ -91,3 +91,13 @@ https://codepen.io/ninamatti/project/editor/AEvnEd
 
 **Link(s) to work**
 -
+
+### Day 11: September 11, Friday
+
+**Today's Progress**: Today, I started working on the first Javascript30 challenge, a simple drum kit.
+
+**Thoughts** So far, the javascript30 challenge seems interesting!
+
+**Link(s) to work**
+-
+
