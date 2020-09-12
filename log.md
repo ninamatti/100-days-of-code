@@ -101,3 +101,11 @@ https://codepen.io/ninamatti/project/editor/AEvnEd
 **Link(s) to work**
 -
 
+### Day 12: September 12, Saturday
+
+**Today's Progress**: Today, I worked a bit more on the javascript30 challenges.
+
+**Thoughts** I did not get as much done as I had thought, because I started researching ways in which midi files can be integrated with javascript.
+
+**Link(s) to work**
+-
