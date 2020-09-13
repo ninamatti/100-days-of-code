@@ -109,3 +109,12 @@ https://codepen.io/ninamatti/project/editor/AEvnEd
 
 **Link(s) to work**
 -
+
+### Day 13: September 13, Sunday
+
+**Today's Progress**: I spent some time solving javascript challenges on codewars today.
+
+**Thoughts** I was not very motivated to continue with the javascript30 challenge today, so I decided to solve puzzles on codewars as a change of pace.
+
+**Link(s) to work**
+-
