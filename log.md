@@ -118,3 +118,21 @@ https://codepen.io/ninamatti/project/editor/AEvnEd
 
 **Link(s) to work**
 -
+
+### Day 14: September 14, Monday
+
+**Today's Progress**: continued working on javascript30 challenge.
+
+**Thoughts** I was not very motivated to continue with the javascript30 challenge today, so I decided to solve puzzles on codewars as a change of pace.
+
+**Link(s) to work**
+-
+
+### Day 15: September 15, Tuesday
+
+**Today's Progress**: Continued working on javascript30 challenge.
+
+**Thoughts** 
+
+**Link(s) to work**
+-
