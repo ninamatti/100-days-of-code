@@ -136,3 +136,12 @@ https://codepen.io/ninamatti/project/editor/AEvnEd
 
 **Link(s) to work**
 -
+
+### Day 16: September 16, Wednesday
+
+**Today's Progress**: Continued with the javascript30 challenge, finishing two more projects
+
+**Thoughts** 
+
+**Link(s) to work**
+-
