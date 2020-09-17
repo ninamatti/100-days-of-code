@@ -145,3 +145,12 @@ https://codepen.io/ninamatti/project/editor/AEvnEd
 
 **Link(s) to work**
 -
+
+### Day 17: September 17, Thursday
+
+**Today's Progress**: Worked on my skill tracker all day, implemented an input form that allows the user to add a new skillset & skill the the skill list. I also created a basic progress bar that takes into account how many of the listed skills are already learnt.
+
+**Thoughts** It felt very good to be able to see the progress I achieved today!
+
+**Link(s) to work**
+-
