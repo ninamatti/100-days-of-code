@@ -154,3 +154,13 @@ https://codepen.io/ninamatti/project/editor/AEvnEd
 
 **Link(s) to work**
 -
+
+
+### Day 18: September 18, Friday
+
+**Today's Progress**: Worked on my skill tracker on the flower section where the user will be able to plant flower seeds that then grow into flowers over several days. I also completed the second assignment for the bootcamp precourse.
+
+**Thoughts** It was a nice change of pace to draw the first flower example on my new tablet, and I was happy to be able to complete the assignment in a short amount of time as well. All in all, a good day!
+
+**Link(s) to work**
+-
