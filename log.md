@@ -164,3 +164,12 @@ https://codepen.io/ninamatti/project/editor/AEvnEd
 
 **Link(s) to work**
 -
+
+### Day 19: September 19, Saturday
+
+**Today's Progress**: Today I worked a bit more on the CSS for my skill tracker.
+
+**Thoughts** Spacing and placing objects in just the right way was quite tricky.
+
+**Link(s) to work**
+-
