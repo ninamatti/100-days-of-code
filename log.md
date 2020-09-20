@@ -173,3 +173,12 @@ https://codepen.io/ninamatti/project/editor/AEvnEd
 
 **Link(s) to work**
 -
+
+### Day 20: September 20, Sunday
+
+**Today's Progress**: Today I started creating the superclass for flower elements as well as the first subclass, sunflowers.
+
+**Thoughts** Very good practice to get more familiar with classes in Javascript.
+
+**Link(s) to work**
+-
