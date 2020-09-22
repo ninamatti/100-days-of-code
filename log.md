@@ -182,3 +182,21 @@ https://codepen.io/ninamatti/project/editor/AEvnEd
 
 **Link(s) to work**
 -
+
+### Day 21: September 21, Monday
+
+**Today's Progress**: Continued working on my skill tracker webapp.
+
+**Thoughts** -
+
+**Link(s) to work**
+-
+
+### Day 22: September 22, Wednesday
+
+**Today's Progress**: Worked on skill tracker, creating a shop element and an inventory element.
+
+**Thoughts** Was struggling a bit with getting the elements to appear/disappear on button click.
+
+**Link(s) to work**
+-
