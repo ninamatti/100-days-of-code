@@ -192,7 +192,7 @@ https://codepen.io/ninamatti/project/editor/AEvnEd
 **Link(s) to work**
 -
 
-### Day 22: September 22, Wednesday
+### Day 22: September 22, Tuesday
 
 **Today's Progress**: Worked on skill tracker, creating a shop element and an inventory element.
 
@@ -202,7 +202,7 @@ https://codepen.io/ninamatti/project/editor/AEvnEd
 -
 
 
-### Day 23: September 23, Thursday
+### Day 23: September 23, Wednesday
 
 **Today's Progress**: Started learning about user databases and read up about how to create a simple login.
 
