@@ -200,3 +200,13 @@ https://codepen.io/ninamatti/project/editor/AEvnEd
 
 **Link(s) to work**
 -
+
+
+### Day 23: September 23, Thursday
+
+**Today's Progress**: Started learning about user databases and read up about how to create a simple login.
+
+**Thoughts** This seems like a big and intricate topic, much more than I thought in the beginning.
+
+**Link(s) to work**
+-
