@@ -210,3 +210,23 @@ https://codepen.io/ninamatti/project/editor/AEvnEd
 
 **Link(s) to work**
 -
+
+### Day 24: September 24, Thursday
+
+**Today's Progress**: Continued working on the Javascript30 challenge.
+
+**Thoughts** -
+
+**Link(s) to work**
+-
+
+
+### Day 25: September 25, Friday
+
+**Today's Progress**: Tried to rearrange the layout of my skill tracker.
+
+**Thoughts** -
+
+**Link(s) to work**
+-
+
